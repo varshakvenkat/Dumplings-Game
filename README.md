@@ -18,3 +18,7 @@ The game is set in the theme of Kung Fu Panda. The two characters in the game ar
 - Move the mouse around the striker to change the angle. Click to fix the angle.
 - Move the mouse up or down to increase or decrease the velocity. Click to shoot.
 
+
+## Sample Gameplay
+https://user-images.githubusercontent.com/47625221/143314353-9d49de88-6a16-46b2-9c3b-c25200e4565b.mov
+
