@@ -2,7 +2,7 @@
 Two player, turn based, carrom-like game implemented in Processing using 2D graphics. The coins on the board display elastic collision.
 
 ## Game Story
-The game is set in the theme of Kung Fu Panda. The two characters in the game are Po and Shifu. Po and Shifu are hungry. They have one bowl of dumplings. Po likes red and Shifu likes green. Whoever wins the game gets the bowl of dumplings. Two users play the game on behalf of them and make them win the bowl of dumplings.
+The game is set in the theme of Kung Fu Panda. The two characters in the game are Po and Shifu. Po and Shifu are hungry. They have one bowl of dumplings. Po likes red and Shifu likes green. Whoever wins the game gets the bowl of dumplings. Two users play the game on their behalf and make them win the bowl of dumplings.
 
 ## Game Rules
 - Player playing as Po gets to strike first.
