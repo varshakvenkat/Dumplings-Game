@@ -1,4 +1,4 @@
-# Dumplings-Game-Programming
+# Dumplings Game
 Two player, turn based, carrom-like game implemented in Processing using 2D graphics. The coins on the board display elastic collision.
 
 ## Game Story
